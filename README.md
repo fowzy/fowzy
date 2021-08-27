@@ -1,5 +1,6 @@
 # Fowzy Alsaud
-<img src="https://c.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif">
+<center><img src="https://c.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif"></center>
+
 -   Welcome to Fowzy's Github
 -   CS Major at MSU Texas (Senior)
 -   Blog/Portfolio  : h3x0r.io
