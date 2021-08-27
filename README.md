@@ -1,5 +1,5 @@
 <p align="center">
-# Fowzy Alsaud
+<h1>Fowzy Alsaud</h1>
   </p>
 <p align="center">
 <img src="https://c.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif"></p>
