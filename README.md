@@ -4,7 +4,7 @@
 
 -   Welcome to Fowzy's Github
 -   CS Major at MSU Texas (Senior)
--   Blog/Portfolio  : h3x0r.io
+-   Blog/Portfolio  : <a href="https://h3x0r.io">h3x0r.io</a>
 -   Twitter :    @fwzsas
 -   Email   :   root@h3x0r.io
 ## Interests:
