@@ -1,5 +1,4 @@
-# Fowzy Alsaud
-<p align="center">
+<p align="center"># Fowzy Alsaud
 <img src="https://c.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif"></p>
 
 -   Welcome to Fowzy's Github
