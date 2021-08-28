@@ -6,7 +6,7 @@
 -   CS Major at MSU Texas (Senior)
 -   Blog/Portfolio  : <a href="https://h3x0r.io">h3x0r.io</a>
 -   Twitter :    <a href="https://twitter.com/fwzsas">@fwzsas</a>
--   Linkedin:   <a href="https://www.linkedin.com/in/fowzys/">Fowzy' profile</a>
+-   Linkedin:   <a href="https://www.linkedin.com/in/fowzys/">fowzys</a>
 -   Email   :   root@h3x0r.io
 ## Interests:
 -   CyberSecurity 🛡️
