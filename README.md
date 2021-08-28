@@ -2,8 +2,7 @@
 <p align="center">
 <img src="https://c.tenor.com/uZv4t9KXvCMAAAAC/rainbow-cat-rainbow.gif"></p>
 
--   Welcome to Fowzy's Github
--   CS Major at MSU Texas (Senior)
+-   Welcome to Fowzy's Github, This is Fowzy Alsaud a student at MSU Texas, computer science major in my senior year, trying my best to develop my skills and learn more stuff about technology and programming.
 
 ## Contacts:
 -   Blog/Portfolio  : <a href="https://h3x0r.io">h3x0r.io</a>
