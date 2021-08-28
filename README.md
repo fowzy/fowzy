@@ -8,5 +8,8 @@
 -   Twitter :    <a href="https://twitter.com/fwzsas">@fwzsas</a>
 -   Email   :   root@h3x0r.io
 ## Interests:
--   CyberSecurity
--   C++, Python
+-   CyberSecurity 🛡️
+-   C++, Python   👨‍💻
+## Projects/ Activities:
+-   In progress...
+-   In progress...
