@@ -10,7 +10,7 @@
 -   Email   :   root@h3x0r.io
 ## Interests:
 -   CyberSecurity 🛡️
--   C++, Python, Java 👨‍💻
+-   C++, Python 👨‍💻
 ## Projects/ Activities:
 -   QuizMe App - In progress... (Flutter/Dart)
 -   More coming ... 
