@@ -12,7 +12,3 @@
 ## Interests:
 -   CyberSecurity 🛡️, and AI
 -   C++, Python, Dart 👨‍💻
-## Projects/ Activities:
--   QuizMe App - In progress... (Flutter/Dart)
--   Panopticon - Twin Evil Attack Detector/Notifier. (Python)
--   More coming ... 
